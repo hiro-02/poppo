@@ -1,0 +1,11 @@
+h1{
+width: 295px;
+margin: 10px 5px;
+}
+
+.frame{
+overflow-y: auto; /*はみだしたらスクロール表示*/
+width: 100%;
+height: 100%;/*150*/
+font-size: 120%;
+}
